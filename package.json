@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "thunkify": ">=0.0.1",
-    "readall": ">= 0.0.1"
+    "readall": ">= 0.0.2"
   },
   "devDependencies": {
     "contributors": "*",
