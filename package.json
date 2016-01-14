@@ -19,7 +19,7 @@
     "contributors": "*",
     "co": "*",
     "should": "*",
-    "jshint": "*",
+    "jshint": "2.9.1",
     "cov": "*",
     "istanbul": "git://github.com/gotwarlost/istanbul.git#harmony",
     "mocha": "*"
